@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 - You set up git to start tracking history.  To add it to git's system.
+
+How is the staging area different from the working directory and the
+ repository? What value do you think it offers?
+
+ An area to separate the working directory from git commits.
