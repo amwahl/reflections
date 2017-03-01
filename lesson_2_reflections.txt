@@ -15,3 +15,7 @@ How is the staging area different from the working directory and the
   in keeping your history organized? How would branches help?
 
   - Experimental changes and working in a group.
+
+  How do the diagrams help you visualize the branch structure?
+
+  Can see the flow.
