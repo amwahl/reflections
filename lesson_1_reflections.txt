@@ -1,0 +1,17 @@
+Reflect #1: You can see side by side what was added (+) and what changed (-).
+Reflect #2: Debugging is SO much easier.  You can keep track of what changed as
+you're doing an analysis.
+Reflect #3: It's helpful to be able to commit on a "project" level instead of
+a file level sometimes.
+How can you use the commands git log and git diff to view the history of files?
+
+You can use them to view summaries of all commits.
+
+How might using version control make you more confident to make changes that
+ could break something?
+
+Now I can test to my heart's content.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I love this.  I want to use it for everything.
