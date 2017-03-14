@@ -7,7 +7,8 @@ How is the staging area different from the working directory and the
 
  An area to separate the working directory from git commits.
 
- How can you use the staging area to make sure you have one commit per logical change?
+ How can you use the staging area to make sure you have one commit per
+ logical change?
 
  Stage one file at a time
 
@@ -19,3 +20,9 @@ How is the staging area different from the working directory and the
   How do the diagrams help you visualize the branch structure?
 
   Can see the flow.
+
+  What is the result of merging two branches together? Why do we represent
+  it in the diagram the way we do?
+
+  It changes everything that was updated between both branches relative to when
+  the branches split apart.
