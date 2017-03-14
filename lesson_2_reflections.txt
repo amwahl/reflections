@@ -26,3 +26,8 @@ How is the staging area different from the working directory and the
 
   It changes everything that was updated between both branches relative to when
   the branches split apart.
+
+  What are the pros and cons of Git’s automatic merging vs. always
+   doing merges manually?
+
+   Saves a lot of time but it could hide errors in different merge branches.
