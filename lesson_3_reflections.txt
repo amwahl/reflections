@@ -14,3 +14,8 @@ Why might you want to always pull changes manually rather than having Git
  are histories of work within a repository.  Use clone to bring a repo local and
  fork to keep it on github (from github).  Branches are for creating new lines
  of work within a repo.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ You can see what the difference is between what you're working on and the starting
+ point of what others may be working on.
