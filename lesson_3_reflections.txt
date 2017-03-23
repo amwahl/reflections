@@ -19,3 +19,9 @@ Why might you want to always pull changes manually rather than having Git
 
  You can see what the difference is between what you're working on and the starting
  point of what others may be working on.
+
+ How would you collaborate without using Git or GitHub? What would be easier,
+  and what would be harder?
+
+  Much harder to work on items at the same time or to create different copies without
+  changing file names.
