@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git
  automatically stay up-to-date with your remote repository?
 
  In case you want to review or make changes locally that you don't want to publish
+
+ Describe the differences between forks, clones, and branches.
+ When would you use one instead of another?
+
+ Forks are copies of public projects. Forks are Github specific clones.  Branches
+ are histories of work within a repository.  Use clone to bring a repo local and
+ fork to keep it on github (from github).  Branches are for creating new lines
+ of work within a repo.
